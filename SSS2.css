@@ -1,0 +1,174 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: none;
+	background-size: cover ;
+}
+.Regestration{
+	width:550px;
+	height: 500px;
+	padding: 40px;
+	position: absolute;
+	margin-top:20%;
+	margin-left:50%;
+    transform: translate(-50%,-50%);
+    background: none;
+    text-align:center;
+    box-sizing: border-box;
+    column-gap: 40px;
+
+    
+}
+.text-box2{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin-top:12px;
+	 
+	padding: 60px;
+	margin-bottom:20px;
+
+}
+
+.text-box2 i {
+	width: 26px;
+	float: left;
+	text-align: center;
+	border-bottom:9px solid #c41f1f
+
+}
+.text-box2 select{
+background: none;
+color: grey;
+font-style: italic;
+text-align: center;
+padding: 10px;
+width:264px;
+height:52px;
+border: 2px;
+font-size: 20px;
+box-shadow: 0 5px 25px rgba(0,0,0,.5); 
+border: 2px solid #000;
+border-radius: 12px;
+border-spacing: 10px;
+border-bottom:5px solid #c41f1f;
+margin: 0 16px;
+float:left;
+margin-top: 20px;
+
+}
+.text-box2 input{
+	width:264px;
+	border: none;
+	outline: none;
+	background: none;	
+	text-align: center;
+	border: 2px solid;
+	padding: 14px ;
+	color: black;
+	font-size: 18px;
+	float: left;
+	margin: 0 16px;
+	border: 2px solid #000;
+    border-radius: 12px;
+   margin-top: 20px; 
+  border-bottom:5px solid #c41f1f;
+    
+
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+
+}
+
+ul li{
+list-style: none;
+display:inline-block;
+line-height: 95px;
+
+}
+
+ul li a{
+display: block;
+text-decoration: none;
+font-size: 17px;
+font-family: arial;
+color: white;
+padding: 0 20px;
+
+border-radius: 10px;
+margin-left: 15px;
+font-style: normal;
+font-weight: bold;
+
+}
+.menu{
+	width :100%;
+	height: 95px;
+	margin-left: 75%;
+}
+.menuc{
+	width :100%;
+	height: 102px;
+	background-color:#c41f1f;
+
+
+}
+
+.pwd{
+	color: black;
+	font-size: 14px;
+font-family: arial;
+color: lightgrey;
+margin-top: 3.95%;
+margin-left: 0px;
+font-size: 16.75px;
+font-style: italic;
+text-decoration: none;
+}
+.Logo{
+width :70%;
+height: 0%;
+background-color:#c41f1f;
+position: absolute;
+
+}
+.btn2{
+	border: outset;
+	width: 90%;
+	background: #c41f1f;
+	border: outset;
+	color:white;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	border: 2px solid  #c41f1f;
+    border-radius: 12px;
+    font-style:bold;
+    position: relative;
+    top: -10%;
+    
+    
+    
+
+
+
+}
+/*The logo of the company above the Sign-up Sheet*/
+.Symb{
+width:550px;
+	height: 400px;
+	padding: 40px;
+	position: absolute;
+	margin-top:19%;
+	margin-left: 59.4%;
+    transform: translate(-50%,-50%);
+    background: none;
+}

@@ -1,0 +1,134 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: none;
+	background-size: cover ;
+}
+
+.login-box{
+	width:500px;
+	height: 470px;
+	padding: 40px;
+	position: absolute;
+	margin-top:25%;
+	margin-left:50%;
+    transform: translate(-50%,-50%);
+    background: none;
+    text-align:center;
+    box-sizing: border-box;
+}
+
+.text-box{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom:3px solid #c41f1f; 
+}
+
+.text-box i {
+	width: 26px;
+	float: left;
+	text-align: center;
+
+}
+.text-box input{
+	border: none;
+	outline: none;
+	background: none;	
+	text-align: center;
+	border: 2px solid;
+	padding: 14px ;
+	color: black;
+	font-size: 18px;
+	float: left;
+	margin: 0 16px;
+	border: 2px solid #000;
+    border-radius: 12px;
+
+
+}
+
+.btn{
+	width: 100%;
+	background: #c41f1f;
+	border: outset;
+	color:white;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	border: 2px solid  #c41f1f;
+    border-radius: 12px;
+    font-style:bold;
+
+}
+.pwd{
+	color: white;
+	font-size: 15px;
+	border-bottom:3px solid white;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+
+}
+
+ul li{
+list-style: none;
+display:inline-block;
+line-height: 95px;
+
+}
+
+ul li a{
+display: block;
+text-decoration: none;
+font-size: 17px;
+font-family: arial;
+color: white;
+padding: 0 20px;
+
+border-radius: 10px;
+margin-left: 15px;
+font-style: normal;
+font-weight: bold;
+
+}
+.menu{
+	width :100%;
+	height: 95px;
+	margin-left: 75%;
+}
+.menuc{
+	width :100%;
+	height: 102px;
+	background-color:#c41f1f;
+
+
+}
+
+.pwd{
+	color: black;
+	font-size: 14px;
+font-family: arial;
+color: lightgrey;
+margin-top: 3.95%;
+margin-left: 0px;
+font-size: 16.75px;
+font-style: italic;
+text-decoration: none;
+}
+.Logo{
+width :70%;
+height: 0%;
+background-color:#c41f1f;
+position: absolute;
+
+}
